@@ -6,7 +6,7 @@
   
 <body>
 <h3>Past Versions of the Semantic Network and Semantic Groups Files</h3>
-<br>The following table lists the past versions of the Semantic Network and Semantic Groups, with their characteristics. <br><br><strong>Column descriptions</strong><br>
+The following table lists the past versions of the Semantic Network and Semantic Groups, with their characteristics. <br><br><strong>Column descriptions</strong>
 <ul>
 <li><strong>SN ver</strong>: Semantic Network version</li>
 <li><strong>SG ver</strong>: Semantic Groups version</li>
