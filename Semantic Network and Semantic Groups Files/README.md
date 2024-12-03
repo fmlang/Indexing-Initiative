@@ -5,8 +5,6 @@
 </head>
   
 <body>
-<p>ARCHIVE</p>
-
 <h3>Past Versions of the Semantic Network and Semantic Groups Files</h3>
 <br>The following table lists the past versions of the Semantic Network and Semantic Groups, with their characteristics. <br><br><strong>Column descriptions</strong><br>
 <ul>
