@@ -3,7 +3,7 @@ Indexing Initiative
 ## Features
 This is the final upload of Indexing Initiative content before project sunset.
 
-### MetaMap source code and binary
+### MetaMap source code and binary (to be deleted?)
 
 ### MetaMap-generated COVID data
 
@@ -11,7 +11,7 @@ Links to all of the various Indexing Initiative COVID-19 related activities and 
 
 https://wayback.archive-it.org/7867/20240404142135/https:/lhncbc.nlm.nih.gov/ii/information/COVID-19.html
 
-### Sem Rep source code and binary
+### Sem Rep source code and binary (to be deleted?)
 
 ### SemMed DB
 
