@@ -15,6 +15,10 @@ https://wayback.archive-it.org/7867/20240404142135/https:/lhncbc.nlm.nih.gov/ii/
 
 ### SemMed DB
 
+For details about the Semantic MEDLINE Database (SemMedDB), and to download the SemMedDB Database, click here:
+
+https://wayback.archive-it.org/7867/20240404142100/https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR.html
+
 ### Semantic Network Archive files
 
 Here are past versions of the Semantic Network and Semantic Groups files:
